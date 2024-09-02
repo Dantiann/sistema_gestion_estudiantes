@@ -1,0 +1,472 @@
+D:\Webmvccolegio\bin\Webmvccolegio.dll.config
+D:\Webmvccolegio\bin\Webmvccolegio.dll
+D:\Webmvccolegio\bin\Webmvccolegio.pdb
+D:\Webmvccolegio\bin\roslyn\csc.exe
+D:\Webmvccolegio\bin\roslyn\csc.exe.config
+D:\Webmvccolegio\bin\roslyn\csc.rsp
+D:\Webmvccolegio\bin\roslyn\csi.exe
+D:\Webmvccolegio\bin\roslyn\csi.exe.config
+D:\Webmvccolegio\bin\roslyn\csi.rsp
+D:\Webmvccolegio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Webmvccolegio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Webmvccolegio\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Webmvccolegio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Webmvccolegio\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Webmvccolegio\bin\roslyn\System.AppContext.dll
+D:\Webmvccolegio\bin\roslyn\System.Collections.Immutable.dll
+D:\Webmvccolegio\bin\roslyn\System.Console.dll
+D:\Webmvccolegio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Webmvccolegio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Webmvccolegio\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Webmvccolegio\bin\roslyn\System.Globalization.Calendars.dll
+D:\Webmvccolegio\bin\roslyn\System.IO.Compression.dll
+D:\Webmvccolegio\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Webmvccolegio\bin\roslyn\System.IO.FileSystem.dll
+D:\Webmvccolegio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Webmvccolegio\bin\roslyn\System.Net.Http.dll
+D:\Webmvccolegio\bin\roslyn\System.Net.Sockets.dll
+D:\Webmvccolegio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Webmvccolegio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Webmvccolegio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Webmvccolegio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Webmvccolegio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Webmvccolegio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Webmvccolegio\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Webmvccolegio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Webmvccolegio\bin\roslyn\System.ValueTuple.dll
+D:\Webmvccolegio\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Webmvccolegio\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Webmvccolegio\bin\roslyn\System.Xml.XPath.dll
+D:\Webmvccolegio\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Webmvccolegio\bin\roslyn\vbc.exe
+D:\Webmvccolegio\bin\roslyn\vbc.exe.config
+D:\Webmvccolegio\bin\roslyn\vbc.rsp
+D:\Webmvccolegio\bin\roslyn\VBCSCompiler.exe
+D:\Webmvccolegio\bin\roslyn\VBCSCompiler.exe.config
+D:\Webmvccolegio\bin\Antlr3.Runtime.dll
+D:\Webmvccolegio\bin\EntityFramework.dll
+D:\Webmvccolegio\bin\EntityFramework.SqlServer.dll
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Webmvccolegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Google.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Webmvccolegio\bin\Microsoft.Web.Infrastructure.dll
+D:\Webmvccolegio\bin\Newtonsoft.Json.dll
+D:\Webmvccolegio\bin\Owin.dll
+D:\Webmvccolegio\bin\System.Web.Helpers.dll
+D:\Webmvccolegio\bin\System.Web.Mvc.dll
+D:\Webmvccolegio\bin\System.Web.Optimization.dll
+D:\Webmvccolegio\bin\System.Web.Razor.dll
+D:\Webmvccolegio\bin\System.Web.WebPages.Deployment.dll
+D:\Webmvccolegio\bin\System.Web.WebPages.dll
+D:\Webmvccolegio\bin\System.Web.WebPages.Razor.dll
+D:\Webmvccolegio\bin\WebGrease.dll
+D:\Webmvccolegio\bin\System.Web.Helpers.xml
+D:\Webmvccolegio\bin\System.Web.Mvc.xml
+D:\Webmvccolegio\bin\System.Web.Optimization.xml
+D:\Webmvccolegio\bin\System.Web.Razor.xml
+D:\Webmvccolegio\bin\System.Web.WebPages.xml
+D:\Webmvccolegio\bin\System.Web.WebPages.Deployment.xml
+D:\Webmvccolegio\bin\System.Web.WebPages.Razor.xml
+D:\Webmvccolegio\bin\Newtonsoft.Json.xml
+D:\Webmvccolegio\bin\Antlr3.Runtime.pdb
+D:\Webmvccolegio\bin\EntityFramework.xml
+D:\Webmvccolegio\bin\EntityFramework.SqlServer.xml
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Webmvccolegio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Google.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Webmvccolegio\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Webmvccolegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Webmvccolegio\bin\es\System.Web.Helpers.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.Mvc.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.Optimization.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.Razor.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.WebPages.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Webmvccolegio\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Webmvccolegio\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Webmvccolegio\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Webmvccolegio\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Webmvccolegio\obj\Debug\Webmvccolegio.csproj.AssemblyReference.cache
+D:\Webmvccolegio\obj\Debug\Webmvccolegio.csproj.CoreCompileInputs.cache
+D:\Webmvccolegio\obj\Debug\Webmvccolegio.csproj.CopyComplete
+D:\Webmvccolegio\obj\Debug\Webmvccolegio.dll
+D:\Webmvccolegio\obj\Debug\Webmvccolegio.pdb
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.dll.config
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.pdb
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.exe
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.exe.config
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.rsp
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.exe
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.exe.config
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.rsp
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Managed.Core.targets
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.AppContext.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Collections.Immutable.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Console.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Globalization.Calendars.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Net.Http.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Net.Sockets.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Reflection.Metadata.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.ValueTuple.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XmlDocument.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.exe
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.exe.config
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.rsp
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe.config
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Antlr3.Runtime.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Web.Infrastructure.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Newtonsoft.Json.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Owin.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Helpers.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Mvc.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Optimization.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Razor.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\WebGrease.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Helpers.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Mvc.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Optimization.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Razor.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Newtonsoft.Json.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Antlr3.Runtime.pdb
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Helpers.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Mvc.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Optimization.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Razor.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.AssemblyReference.cache
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.CoreCompileInputs.cache
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.CopyComplete
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.dll
+G:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.pdb
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.dll.config
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Webmvccolegio.pdb
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.exe
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.exe.config
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csc.rsp
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.exe
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.exe.config
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\csi.rsp
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.AppContext.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Collections.Immutable.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Console.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Net.Http.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Net.Sockets.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.ValueTuple.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.exe
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.exe.config
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\vbc.rsp
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe.config
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Antlr3.Runtime.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Web.Infrastructure.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Newtonsoft.Json.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Owin.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Helpers.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Mvc.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Optimization.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Razor.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\WebGrease.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Helpers.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Mvc.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Optimization.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.Razor.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Newtonsoft.Json.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Antlr3.Runtime.pdb
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Helpers.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Mvc.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Optimization.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.Razor.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.AssemblyReference.cache
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.CoreCompileInputs.cache
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.CopyComplete
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.dll
+D:\Ejemplo_Mvc_SqlServer_Colegio\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Webmvccolegio.dll.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Webmvccolegio.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Webmvccolegio.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csc.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csc.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csc.rsp
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csi.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csi.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\csi.rsp
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.AppContext.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Console.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Net.Http.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.ValueTuple.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\vbc.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\vbc.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\vbc.rsp
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Antlr3.Runtime.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\EntityFramework.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Newtonsoft.Json.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Owin.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Helpers.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Mvc.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Optimization.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Razor.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\WebGrease.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Helpers.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Mvc.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Optimization.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.Razor.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\System.Web.WebPages.Razor.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Newtonsoft.Json.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Antlr3.Runtime.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\EntityFramework.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\EntityFramework.SqlServer.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.Razor.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.dll
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\obj\Debug\Webmvccolegio.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_4\John_C#_ASP.NET\Colegio MVC Crud\Web_Mvc_Colegio\obj\Debug\Webmvcco.53AA1735.Up2Date

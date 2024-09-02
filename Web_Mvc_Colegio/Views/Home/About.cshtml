@@ -1,0 +1,78 @@
+﻿@{
+//ViewBag.Title = "";
+}
+<main aria-labelledby="title">
+    @*<h2 id="title">@ViewBag.Title.</h2>*@
+    @*<h3>@ViewBag.Message</h3>*@
+
+
+    <section class="row" aria-labelledby="aspnetTitle" style="position: relative;">
+        <img src="~/Imagen/school_logo1.png" alt="Logo de la escuela" style="width: 100%; max-height: 200px; position: absolute; top: 0; left: 0;" />
+        <!-- Aquí se ajustó max-height a 200px para reducir la altura de la imagen. Puedes cambiar este valor según tu preferencia. -->
+        <div style="position: absolute; botton: 30; top: 45px; left: 70%; transform: translateX(-30%);">
+            <!-- Se crea un contenedor para centrar el texto en la mitad superior de la pantalla. -->
+            <h1 id="aspnetTitle" style="color: white; font-size: 50px;">Rochester School</h1>
+            <!-- El texto ahora está centrado horizontalmente. -->
+            <p class="lead" style="color: floralwhite; font-size: 18px;">
+                Founded in 1954.
+            </p>
+        </div>
+    </section>
+
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
+    <p>Ingrese los datos en cada una de las casillas: </p>
+
+    <form action="/Home/About" method="post">
+        <input type="text" id="codigo" name="codigo" placeholder="Id del Estudiante" style="width: 100%; margin-bottom: 10px; padding: 10px; border-radius: 8px;" />
+        <input type="text" id="nombres" name="nombres" placeholder="Nombres" style="width: 100%; margin-bottom: 10px; padding: 10px; border-radius: 8px;" />
+        <input type="text" id="apellidos" name="apellidos" placeholder="Apellidos" style="width: 100%; margin-bottom: 10px; padding: 10px; border-radius: 8px;" />
+        <!-- Cambiar el color, tamaño y tipo de letra de los botones -->
+        <input type="submit" name="boton" value="Agregar" style="background-color: #2E4F4E; color: white; font-size: 18px; font-family: Arial, sans-serif; padding: 10px 20px; border-radius: 8px;" />
+        <input type="submit" name="boton" value="Actualizar" style="background-color: #FBC915; color: white; font-size: 18px; font-family: Arial, sans-serif; padding: 10px 20px; border-radius: 8px;" />
+        <input type="submit" name="boton" value="Eliminar" style="background-color: #cc0000; color: white; font-size: 18px; font-family: Arial, sans-serif; padding: 10px 20px; border-radius: 8px;" />
+
+    </form>
+
+
+
+
+    @*razor*@
+    @model List<Webmvccolegio.Models.Personas>
+    @*model webmvc1.Models.Personas*@
+    <br><br><br>
+
+    <div class="row">
+        <section class="col-md-6" aria-labelledby="librariesTitle">
+            <h2>Lista Estudiantes</h2>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <td>Código</td>
+                        <td>Nombres</td>
+                        <td>Apellidos</td>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var per in Model)
+                    {
+                        <tr>
+                            <td>@per.Idestudiante</td>
+                            <td>@per.Nombres</td>
+                            <td>@per.Apellidos</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </section>
+
+        <section class="col-md-6" aria-labelledby="hostingTitle">
+            <!-- Aquí se crea un contenedor para las imágenes y se ajusta el estilo -->
+            <div class="image-container" style="position: relative; text-align: right;">
+                <img src="~/Imagen/DSC_0040.jpg" width="550" alt="DSC_0040" style="margin-bottom: 10px;" />
+                <img src="~/Imagen/DSC_0041.jpg" width="550" alt="DSC_0041" />
+            </div>
+        </section>
+    </div>
+</main>
